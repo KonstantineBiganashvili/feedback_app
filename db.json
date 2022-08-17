@@ -16,9 +16,9 @@
       "text": "This is feedback 3 from json-server"
     },
     {
-      "id": 4,
+      "text": "This is feedback 4 from json-server / Edit 1",
       "rating": 4,
-      "text": "This is feedback 4 from json-server"
+      "id": 4
     }
   ]
 }
